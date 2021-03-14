@@ -3,6 +3,7 @@ import styled from 'styled-components/native';
 import Form from './components/Form';
 import Button from './components/Button';
 import Length from './components/Length';
+import Dog from './components/Dog';
 
 const Container = styled.View`
     flex: 1;
@@ -16,7 +17,7 @@ const App = () => {
 
     return (
         <Container>
-            <Length />
+            <Dog />
         </Container>
     );
 };

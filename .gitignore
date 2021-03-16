@@ -3,7 +3,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,macos,git
 
 *.swp
-
+firebase.json
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
